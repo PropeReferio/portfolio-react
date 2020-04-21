@@ -30,7 +30,7 @@ body{
 }
 .profilepic{
   border-radius: 40%;
-  width: 200px;
+  width: 400px;
   margin: 30px;
 }
 .typingeffect{
@@ -126,4 +126,7 @@ h1,h2,h3,h4,p {
 }
 .App{
   flex-direction: columns;
+}
+.compdet {
+  font-size: 200%;
 }
