@@ -13,6 +13,7 @@ class Widecard extends React.Component{
                     <h4 class="secondtext">{this.props.where}</h4>
                     <h4 class="secondtext">{this.props.from} {this.props.to}</h4>
                     <p>{this.props.desc}</p>
+                    <h4>Made with: {this.props.tech}</h4>
                 </div>
             </div>
         )
